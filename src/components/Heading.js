@@ -10,7 +10,7 @@ class Heading extends Component {
                 </div>
                 <div class="small-info">
                     <h1>Thriving Cities</h1>
-                    <h3>Events</h3>
+                    <h3>Stay up to date with local events</h3>
                 </div>
             </div>            
         </div>        
