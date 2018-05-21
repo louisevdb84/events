@@ -91,11 +91,7 @@ class Footer extends Component {
         </div>
          
 
-    </div>
-    <hr />
-    <div class="copyright">
-        &copy; 2018 Louise, made with love
-    </div>
+    </div>  
 </div>
 </footer>
     );

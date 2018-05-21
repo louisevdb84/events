@@ -1,7 +1,3 @@
-It is a completely different page where local events 
-will be advertised and people will be able to sign up 
-for those events (Through mailchimp). 
-
 The website will need to have a sample video embedded 
 into it somewhere as well for a placeholder for a 
 future video.
@@ -11,21 +7,36 @@ people can stay up-to-date on local events and
 sign up for those events if they wish to join/join 
 a mailing list. 
 
-The website should have a Memphis, TN theme (where 
-the company is located). Memphis is a city in 
-Tennessee, USA. The events will be in Memphis, 
-Tennessee, USA so it might be a good idea for you 
-to have Memphis themes on the website (Elvis Presley,
+Memphis themes on the website (Elvis Presley,
  Martin Luther King Jr, Justin Timberlake, Lecrae, 
  etc. People from Memphis, TN, USA basically.)
 
- Andrei was right about there being no restrictions 
- on how you do this project. The client wants a 
- website that is totally separate from the 
- original website. They also want people to be able 
+They also want people to be able 
  to sign up for separate events within the website. 
  They want the site to be a site where people can go 
  to see updates on recent events and sign up for 
  those events, basically. They don't care what it 
  looks like, they just want it to look good and 
  potentially have a Memphis, TN theme
+
+ From my understanding, there shouldn't be any 
+ backend code here. Just simply relying on mailchimp 
+ to provide signup functionality for events
+I also think they haven't decided about the mailchimp 
+accounts situation, and are looking for just a page
+ that works and is functional with a dummy mailchimp 
+ account for now
+
+ @Arshi , the events will be pretty diverse but 
+ mostly music festival/food festival type events.
+  In Memphis, everyone loves music and barbeque so 
+  they intend to have events surrounding those 
+  things. They will have information sessions 
+  surrounding the work they do as well, and I'm 
+  sure they will have other events thrown in there 
+  too.(edited)
+
+ Also, someone asked earlier about React and whether 
+ or not the client is comfortable with it. The client 
+ organization uses React frequently so you all should 
+ feel free to use it if you want.
