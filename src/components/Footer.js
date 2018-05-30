@@ -11,27 +11,17 @@ class Footer extends Component {
             <nav>
                 <ul>
                     <li>
-                        <a href="#" >
+                        <a href="" >
                             Home
                         </a>
-                    </li>
+                    </li>                                     
                     <li>
-                        <a href="#">
-                           Find offers
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            Discover Projects
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
+                        <a href="">
                             Our Portfolio
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="">
                             About Us
                         </a>
                     </li>
@@ -43,22 +33,17 @@ class Footer extends Component {
             <nav>
                 <ul>
                     <li>
-                        <a href="#">
+                        <a href="">
                            Contact Us
                         </a>
-                    </li>
+                    </li>                  
                     <li>
-                        <a href="#">
-                           How it works
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
+                        <a href="">
                             Terms & Conditions
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="">
                             Company Policy
                         </a>
                     </li>
@@ -71,17 +56,17 @@ class Footer extends Component {
             <nav>
                 <ul>
                     <li>
-                    <a href="#" class="btn btn-social btn-facebook btn-simple">
+                    <a href="" class="btn btn-social btn-facebook btn-simple">
                         <i class="fa fa-facebook-square"></i> Facebook
                     </a>
                 </li> 
                 <li>
-                <a href="#" class="btn btn-social btn-twitter btn-simple">
+                <a href="" class="btn btn-social btn-twitter btn-simple">
                         <i class="fa fa-twitter"></i> Twitter
                     </a>
                 </li>
                 <li>
-                    <a href="#" class="btn btn-social btn-reddit btn-simple">
+                    <a href="" class="btn btn-social btn-reddit btn-simple">
                         <i class="fa fa-google-plus-square"></i> Google+
                     </a>
             </li>

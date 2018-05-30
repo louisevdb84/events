@@ -3,7 +3,7 @@ import './App.css';
 import Heading from './components/Heading';
 import EventList from './components/EventList';
 import Footer from './components/Footer';
-// import TestCSV from './TestCSV';
+import Video from './components/Video';
 
 class App extends Component {
   render() {
@@ -11,6 +11,7 @@ class App extends Component {
       <div>  
         <div>        
           <Heading />
+          <Video/>
           <div className="container">              
               <EventList/>      
           </div>

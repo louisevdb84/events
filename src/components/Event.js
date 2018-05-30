@@ -15,7 +15,7 @@ class Event extends Component {
                   <img src={imageURL} alt="..." />
                   <div class="filter filter-azure">
                       <button id="subscribeBtn" type="button" class="btn">
-                          <Subscribe/>
+                         <Subscribe/>
                       </button>
                   </div>
               </div>
@@ -49,15 +49,3 @@ class Event extends Component {
 }
 
 export default Event;
-
-
-// <div class="embed-responsive embed-responsive-4by3">
-//                         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
-//                     </div>
-
-
-
-
-// <iframe width="560" height="315" 
-// src = "https://www.youtube.com/embed/hp8shfrNX_k" frameborder = "0" allow = "autoplay; encrypted-media" allowfullscreen >
-// </iframe >
