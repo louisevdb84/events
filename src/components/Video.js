@@ -10,7 +10,7 @@ class Video extends Component {
             <br/>    
             <div className="row">
             <div className="col-md-6">                
-            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+            <p>Lorem ipsum dolor sit amet, donec vestibulum, ut cras lacinia pede malesuada, risus ut bibendum mauris sed venenatis tristique, elementum at porttitor non rhoncus auctor in. Pharetra semper, ipsum at eget vel, molestiae magna ac. Dictum in orci dolor felis bibendum mi, suscipit cras fermentum ut, donec eget id, molestie dictumst non lorem. Tortor consequat velit vitae ante vitae, mollis vel, nunc sem gravida. Ligula integer aenean amet rutrum lectus eros, suspendisse ullamcorper magna mattis mauris consectetuer dictum. Cras integer pede arcu tellus risus diam.</p>
                 </div>            
         <div className = "col-md-6">
             <iframe width="450" height="235" 
