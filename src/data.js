@@ -3,7 +3,7 @@ var eventList = [
     {
         name: "Lorem ipsum dolor",
         description: "Lorem ipsum dolor sit amet, no sit dicit diceret nostrum, error tation at vel. Ad sea dicat erant suscipiantur, maiestatis ullamcorper ex eum, id vis partem fuisset persequeris. An diceret fuisset partiendo has, mel mazim nobis munere te, pri etiam conclusionemque cu. Deserunt constituam ei vim. ",
-        date: "Thu 24th May 19:00",
+        date: "Sat 16th June 19:00",
         startTime: "19:00",
         endTime: "21:00",
         venue: "Memphis, TN, United States",
@@ -13,7 +13,7 @@ var eventList = [
     {
         name: "Lorem ipsum dolor",
         description: "Lorem ipsum dolor sit amet, no sit dicit diceret nostrum, error tation at vel. Ad sea dicat erant suscipiantur, maiestatis ullamcorper ex eum, id vis partem fuisset persequeris. An diceret fuisset partiendo has, mel mazim nobis munere te, pri etiam conclusionemque cu. Deserunt constituam ei vim. Magna aliquip voluptatibus et has, nonumes dissentiunt id eam.",
-        date: "Thu 24th May 19:00",
+        date: "Sat 16th June 19:00",
         startTime: "19:00",
         endTime: "21:00",
         venue: "Memphis, TN, United States",
@@ -22,7 +22,7 @@ var eventList = [
     {
         name: "Lorem ipsum dolor",
         description: "Lorem ipsum dolor sit amet, no sit dicit diceret nostrum, error tation at vel. Ad sea dicat erant suscipiantur, maiestatis ullamc",
-        date: "Thu 24th May 19:00",
+        date: "Sat 16th June 19:00",
         startTime: "19:00",
         endTime: "21:00",
         venue: "Memphis, Tennessee, United States",
@@ -31,7 +31,7 @@ var eventList = [
     {
         name: "Lorem ipsum dolor",
         description: "Lorem ipsum dolor sit amet, no sit dicit diceret nostrum, error tation at vel. Ad sea dicat erant suscipiantur, maiestatis ullamcorper ex eum, id vis partem fuisset persequeris. An diceret fuisset partiendo has, mel mazim n ",
-        date: "Thu 24th May 19:00",
+        date: "Sat 16th June 19:00",
         startTime: "19:00",
         endTime: "21:00",
         venue: "Memphis, TN, United States",
@@ -40,7 +40,7 @@ var eventList = [
     {
         name: "Lorem ipsum dolor",
         description: "Lorem ipsum dolor sit amet, no sit dicit diceret nostrum, error tation at vel. Ad sea dicat erant suscipiantur, maiestatis ullamcorper ex eum, id vis partem fuisset persequeris. An diceret fuisset partiendo has, mel mazim nobis munere te, pri etiam conclusionemque cu. Deserunt constituam ei vim. ",
-        date: "Thu 24th May 19:00",
+        date: "Sat 16th June 19:00",
         startTime: "19:00",
         endTime: "21:00",
         venue: "Memphis, TN, United States",
@@ -49,7 +49,7 @@ var eventList = [
     {
         name: "Lorem ipsum dolor",
         description: "Lorem ipsum dolor sit amet, no sit dicit diceret nostrum, error tation at vel. Ad sea dicat erant suscipiantur, maiestatis ullamcorper ex eum, id vis partem fuisset persequeris. An diceret fuisset partiendo has, mel mazim nobis munere te, pri etiam conclusionemque cu. Deserunt constituam ei vim. Magna aliquip voluptatibus et has, nonumes dissentiunt id eam.",
-        date: "Thu 24th May 19:00",
+        date: "Sat 16th June 19:00",
         startTime: "19:00",
         endTime: "21:00",
         venue: "Memphis, TN, United States",
