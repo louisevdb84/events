@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Footer extends Component {
   render() {
     return (
-        <footer class="footer footer-big footer-transparent" style={{ backgroundImage: 'url(' + '../assets/img/thumb.jpg' + ')' }}>
+        <footer class="footer footer-big footer-transparent" style={{ backgroundImage: 'url(' + './thumb.jpg' + ')' }}>
 <div class="container">
     <div class="row">
         <div class="col-sm-4">

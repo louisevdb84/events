@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import thumb from './thumb.jpg';
 
 class Heading extends Component {
   render() {
@@ -6,7 +7,7 @@ class Heading extends Component {
         <div class="wrapper">
             <div class="parallax filter-black">
                 <div class="parallax-image">
-                    <img src="../assets/img/thumb.jpg" alt="..." />
+                    <img src={thumb} alt="..." />
                 </div>
                 <div class="small-info">
                     <h1>Thriving Cities</h1>
